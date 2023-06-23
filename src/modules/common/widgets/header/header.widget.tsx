@@ -12,7 +12,7 @@ export function HeaderWidget(props: HeaderWidgetProps) {
             className="flex bg-white border-b text-primary p-4"
         >
             <Link href="/" className={styles.logo}>
-                Logo
+                Human Telemetrics Load Tester
             </Link>
             <AccountWidget className="ml-auto" />
         </div>
